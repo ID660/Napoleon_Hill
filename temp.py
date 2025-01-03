@@ -3,15 +3,10 @@ import numpy as np
 a= 1
 b = 2
 print(a+b)
-
-
-
 # import pandas as pd
 import numpy as np
-
 def trier_liste(liste):
     return sorted(liste)
-
 a = 1
 b = 2
 print(a + b)
@@ -25,3 +20,6 @@ print(trier_liste(ma_liste))
 print("Hello World")
 c = 2
 print (b+c)
+print(a+c)
+print(a+b)*
+
